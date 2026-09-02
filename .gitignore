@@ -1,0 +1,13 @@
+.DS_Store
+.idea/
+.vscode/
+node_modules/
+.env
+.env.*
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.ndjson
+artifacts/
+reports/

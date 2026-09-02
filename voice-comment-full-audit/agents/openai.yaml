@@ -1,0 +1,4 @@
+interface:
+  display_name: "Voice Comment Full Audit"
+  short_description: "全量语音评论审核与首帧复核高级回扫及结果写回工作流"
+  default_prompt: "使用 voice-comment-full-audit 对指定 Excel 或在线表格执行全量审核、补证据、扫遗漏并生成可追溯结果。"
